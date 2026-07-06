@@ -1,26 +1,28 @@
 # 👋 Hi, I’m @AryanPROFFESOR
 
 ### 🔬 About Me
-I am a final-year Electronics and Communication Engineering (ECE) student at USICT, specializing in advanced hardware architecture, embedded systems, and System-on-Chip (SoC) design[cite: 1]. My engineering philosophy centers on building robust, component-level solutions to tackle complex bottlenecks in both traditional tech sectors and frontier biological sciences. 
+I am a final-year Electronics and Communication Engineering (ECE) student at USICT, specializing in advanced hardware architecture, embedded systems, and System-on-Chip (SoC) design. My engineering philosophy centers on building robust, component-level solutions to tackle complex bottlenecks in both traditional tech sectors and frontier biological sciences. 
 
 I approach deep technical challenges using a structured, interval-based working schedule, allowing for highly focused computational and hardware development sprints.
 
 ### ⚡ Core Electronics & Engineering Expertise
 My primary technical foundation lies in hardware-software co-design and scalable system integration:
-*   **System-on-Chip (SoC) & FPGA:** Extensive experience with AMD Xilinx architectures (Zynq-7000 series, ZedBoard), managing AMBA AXI protocols to bridge Processing Systems (PS) and Programmable Logic (PL)[cite: 1].
-*   **Embedded Systems & Robotics:** Proficient in bare-metal programming, custom Embedded Linux deployment (U-Boot/Kernel via Tera Term), and RTOS integration[cite: 1]. Experienced in building autonomous multi-agent systems utilizing ESP32 microcontrollers, ROS2, and SLAM[cite: 1].
-*   **Hardware Design & Verification:** Adept at custom Printed Circuit Board (PCB) layout design, mechanical CAD modeling, and rigorous RTL verification methodologies[cite: 1].
+*   **System-on-Chip (SoC) & FPGA:** Extensive experience with AMD Xilinx architectures (Zynq-7000 series, ZedBoard), managing AMBA AXI protocols to bridge Processing Systems (PS) and Programmable Logic (PL).
+*   **Embedded Systems & Robotics:** Proficient in bare-metal programming, custom Embedded Linux deployment (U-Boot/Kernel via Tera Term), and RTOS integration. Experienced in building autonomous multi-agent systems utilizing ESP32 microcontrollers, ROS2, and SLAM.
+*   **Hardware Design & Verification:** Adept at custom Printed Circuit Board (PCB) layout design, mechanical CAD modeling, and rigorous RTL verification methodologies.
 
-### 🧠 Interdisciplinary Research (Neuroscience & Bioinformatics)
+### 🧠 Interdisciplinary Research (Neuroscience, Genomics & Stem Cells)
 Beyond core electronics, I am deeply invested in utilizing computational engineering to advance biological research:
-*   **Neurotechnology:** Passionate about theoretical and experimental (wet lab) neuroscience. My research targets brain dynamics, specifically focused on epilepsy, neurodegeneration, and the integration of electrophysiological data with stem cell research.
-*   **Bio-computation:** Experienced in designing resource-efficient genomic data pipelines. I utilize structural prediction frameworks (ESM, AlphaFold) and optimize massive datasets (like Hi-C and HDF5) to uncover structural loopholes and protein-DNA interactions[cite: 1].
+*   **Neurotechnology & Electrophysiology:** Passionate about theoretical and experimental neuroscience. My research targets brain dynamics, specifically focused on epilepsy and neurodegeneration. I have practical experience in conducting complex EEG and electrophysiological signal analysis.
+*   **Stem Cells & Cell Culture:** I am deeply interested in the integration of stem cell research with electrophysiological dynamics. To complement my computational background, I am actively looking to broaden my technical repertoire by learning wet lab cell and tissue culture techniques.
+*   **Genomics & Bio-computation:** Experienced in designing resource-efficient genomic data pipelines. My expertise includes analyzing massive datasets using Single-Cell RNA Sequencing (scRNA-seq), scMultiome assays, and Genome-Wide Association Studies (GWAS). I also utilize structural prediction frameworks (ESM, AlphaFold) to uncover structural loopholes and protein-DNA interactions.
 
 ### 💻 Technical Arsenal
-*   **Hardware Description & Programming:** C, C++, Python, R, Embedded-C, VHDL, Verilog, SystemVerilog[cite: 1].
-*   **EDA & Mechanical Tools:** AMD Vivado, Vitis, KiCad, Cadence, Altium Designer, Autodesk Fusion360[cite: 1].
-*   **Systems & Embedded Control:** Linux, FreeRTOS, ROS2, Gazebo, SLAM, CMake, Git, TCL Scripting, JTAG Debugging[cite: 1].
-*   **AI, Vision & Signal Processing:** PyTorch, TensorFlow, TFLite/Micro, TensorRT, Vitis AI, OpenCV, GNU Radio, MATLAB, Simulink, SciPy, NumPy[cite: 1].
+*   **Hardware Description & Programming:** C, C++, Python, R, Embedded-C, VHDL, Verilog, SystemVerilog.
+*   **EDA & Mechanical Tools:** AMD Vivado, Vitis, KiCad, Cadence, Altium Designer, Autodesk Fusion360.
+*   **Systems & Embedded Control:** Linux, FreeRTOS, ROS2, Gazebo, SLAM, CMake, Git, TCL Scripting, JTAG Debugging.
+*   **AI, Vision & Signal Processing:** PyTorch, TensorFlow, TFLite/Micro, TensorRT, Vitis AI, OpenCV, GNU Radio, MATLAB, Simulink, SciPy, NumPy.
+*   **Bioinformatics Tools:** scRNA-seq, scMultiome, GWAS, AlphaFold, ESM, Hi-C/HDF5 data structures.
 
 ### 🚀 Goals & Collaboration
 I am actively seeking professional research internships and collaborative R&D opportunities where I can:
@@ -31,5 +33,6 @@ I am actively seeking professional research internships and collaborative R&D op
 ### 📫 Let's Connect
 I am always open to discussing hardware design, neuro-computation, or ambitious ideas.
 
-*   **LinkedIn:** [Your LinkedIn Link Here]
-*   **Email:** [Your Email Here]
+*   **LinkedIn:** [linkedin.com/in/aryan-09176b1b6](https://www.linkedin.com/in/aryan-09176b1b6/)
+*   **Academic Email:** [aryan.academic01@gmail.com](mailto:aryan.academic01@gmail.com)
+*   **Personal Email:** [kingpinaryan@gmail.com](mailto:kingpinaryan@gmail.com)
