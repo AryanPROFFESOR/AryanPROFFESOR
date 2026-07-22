@@ -1,38 +1,25 @@
-# 👋 Hi, I’m @AryanPROFFESOR
+# 👋 Hi, I’m Aryan (@AryanPROFFESOR)
 
-### 🔬 About Me
-I am a final-year Electronics and Communication Engineering (ECE) student at USICT, specializing in advanced hardware architecture, embedded systems, and System-on-Chip (SoC) design. My engineering philosophy centers on building robust, component-level solutions to tackle complex bottlenecks in both traditional tech sectors and frontier biological sciences. 
+I’m a final-year Electronics and Communication Engineering (ECE) student at USICT. My biggest passion right now lies at the intersection of **stem cell biology and genomics**. I am deeply driven to understand how the human brain develops and malfunctions at a cellular level, using computational pipelines (like scRNA-seq and GWAS) to decode massive datasets. 
 
-I approach deep technical challenges using a structured, interval-based working schedule, allowing for highly focused computational and hardware development sprints.
+While my current research relies heavily on bioinformatics and electrophysiology (EEG signal analysis), my immediate goal is to get my hands dirty in the wet lab. I am incredibly eager to learn cell and tissue culture because the idea of handling live cells and observing these dynamic biological systems firsthand completely fascinates me. Ultimately, bridging my computational background with this hands-on wet-lab experience is a crucial stepping stone toward my long-term goal: contributing meaningfully to the field of neuroscience, with a specific focus on understanding and treating epilepsy.
 
-### ⚡ Core Electronics & Engineering Expertise
-My primary technical foundation lies in hardware-software co-design and scalable system integration:
-*   **System-on-Chip (SoC) & FPGA:** Extensive experience with AMD Xilinx architectures (Zynq-7000 series, ZedBoard), managing AMBA AXI protocols to bridge Processing Systems (PS) and Programmable Logic (PL).
-*   **Embedded Systems & Robotics:** Proficient in bare-metal programming, custom Embedded Linux deployment (U-Boot/Kernel via Tera Term), and RTOS integration. Experienced in building autonomous multi-agent systems utilizing ESP32 microcontrollers, ROS2, and SLAM.
-*   **Hardware Design & Verification:** Adept at custom Printed Circuit Board (PCB) layout design, mechanical CAD modeling, and rigorous RTL verification methodologies.
+### ⚡ My Engineering Background
+Even though I am heavily focused on biology, my core background is in hard engineering. I specialize in advanced hardware architecture, System-on-Chip (SoC) design, and embedded systems. I love building things from the component level up—whether that means managing AMBA AXI protocols on Zynq-7000 FPGAs, designing custom PCBs, or writing bare-metal code for autonomous ROS2 robots. 
 
-### 🧠 Interdisciplinary Research (Neuroscience, Genomics & Stem Cells)
-Beyond core electronics, I am deeply invested in utilizing computational engineering to advance biological research:
-*   **Neurotechnology & Electrophysiology:** Passionate about theoretical and experimental neuroscience. My research targets brain dynamics, specifically focused on epilepsy and neurodegeneration. I have practical experience in conducting complex EEG and electrophysiological signal analysis.
-*   **Stem Cells & Cell Culture:** I am deeply interested in the integration of stem cell research with electrophysiological dynamics. To complement my computational background, I am actively looking to broaden my technical repertoire by learning wet lab cell and tissue culture techniques.
-*   **Genomics & Bio-computation:** Experienced in designing resource-efficient genomic data pipelines. My expertise includes analyzing massive datasets using Single-Cell RNA Sequencing (scRNA-seq), scMultiome assays, and Genome-Wide Association Studies (GWAS). I also utilize structural prediction frameworks (ESM, AlphaFold) to uncover structural loopholes and protein-DNA interactions.
+### 🛠️ What I Work With
+*   **Bioinformatics & Neuroscience:** scRNA-seq, scMultiome, GWAS, AlphaFold, ESM, Hi-C/HDF5 data structures, electrophysiological (EEG) signal analysis.
+*   **Core Hardware & SoC:** AMD Xilinx architectures (ZedBoard), AMBA AXI, VHDL, Verilog, SystemVerilog, custom PCB design, RTL verification.
+*   **Embedded & Robotics:** Embedded Linux (U-Boot/Kernel), FreeRTOS, ESP32, ROS2, SLAM.
+*   **Languages & AI:** C, C++, Python, R, MATLAB, PyTorch, TensorFlow, OpenCV.
 
-### 💻 Technical Arsenal
-*   **Hardware Description & Programming:** C, C++, Python, R, Embedded-C, VHDL, Verilog, SystemVerilog.
-*   **EDA & Mechanical Tools:** AMD Vivado, Vitis, KiCad, Cadence, Altium Designer, Autodesk Fusion360.
-*   **Systems & Embedded Control:** Linux, FreeRTOS, ROS2, Gazebo, SLAM, CMake, Git, TCL Scripting, JTAG Debugging.
-*   **AI, Vision & Signal Processing:** PyTorch, TensorFlow, TFLite/Micro, TensorRT, Vitis AI, OpenCV, GNU Radio, MATLAB, Simulink, SciPy, NumPy.
-*   **Bioinformatics Tools:** scRNA-seq, scMultiome, GWAS, AlphaFold, ESM, Hi-C/HDF5 data structures.
-
-### 🚀 Goals & Collaboration
-I am actively seeking professional research internships and collaborative R&D opportunities where I can:
-*   Architect custom hardware accelerators or SoC solutions.
-*   Bridge the gap between embedded engineering and frontier stem cell/neurobiology research.
-*   Contribute to high-impact, technologically advanced engineering teams.
+### 🚀 What I'm Looking For
+I am actively seeking research internships and collaborative R&D roles where I can:
+1. Learn wet-lab cell culture techniques and apply my computational background to frontier challenges in **stem cell research** and neurobiology (specifically epilepsy).
+2. Architect custom hardware accelerators, SoC solutions, or advanced embedded systems in the tech industry.
 
 ### 📫 Let's Connect
-I am always open to discussing hardware design, neuro-computation, or ambitious ideas.
-
+I'm always open to talking about hardware design, brain dynamics, or just brainstorming ambitious ideas. 
 *   **LinkedIn:** [linkedin.com/in/aryan-09176b1b6](https://www.linkedin.com/in/aryan-09176b1b6/)
 *   **Academic Email:** [aryan.academic01@gmail.com](mailto:aryan.academic01@gmail.com)
 *   **Personal Email:** [kingpinaryan@gmail.com](mailto:kingpinaryan@gmail.com)
