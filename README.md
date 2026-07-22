@@ -23,3 +23,4 @@ I'm always open to talking about hardware design, brain dynamics, or just brains
 *   **LinkedIn:** [linkedin.com/in/aryan-09176b1b6](https://www.linkedin.com/in/aryan-09176b1b6/)
 *   **Academic Email:** [aryan.academic01@gmail.com](mailto:aryan.academic01@gmail.com)
 *   **Personal Email:** [kingpinaryan@gmail.com](mailto:kingpinaryan@gmail.com)
+*   **Personal Website:**[Click Here](https://aryanproffesor.github.io/neuroverse/)
