@@ -4,7 +4,7 @@
 I am a final-year Electronics Engineering student operating at the intersection of advanced hardware architecture and computational neuroscience. 
 
 ### 🧬 Neuroscience & Developmental Biology
-My primary research drive is understanding and exploring the network hypothesis of epilepsy. I know there is still a massive amount of ground to cover in this domain, so if you are exploring this space and want to collaborate, please reach out! I also have a highly critical interest—you could almost call it a strict paranoia—regarding the use of Clobazam as an antiepileptic drug. If you need help or want to collaborate on a project investigating its dynamics, I would love to get involved.
+My primary research drive is understanding and exploring the network hypothesis of epilepsy. I know there is still a massive amount of ground to cover in this domain, so if you are exploring this space and want to collaborate, please reach out! I also have a highly critical interest (you could almost call it a strict paranoia) regarding the use of Clobazam as an antiepileptic drug. If you need help or want to collaborate on a project investigating its dynamics, I would love to get involved.
 
 Experimentally, my wet-lab and analytical background spans from patch-clamp electrophysiology to minigene assays. Moving forward, I am actively seeking direct PhD programs or year-round internships where I can get hands-on experience with stem cell culture and developmental biology.
 
