@@ -1,4 +1,4 @@
-# Hi I am Aryan ([AryanPROFFESOR](https://github.com/AryanPROFFESOR))
+# Hi I am Aryan 
 **Electronics Engineering Undergraduate | Interdisciplinary Researcher**
 
 I am a final year Electronics Engineering student operating at the intersection of advanced hardware architecture and computational neuroscience. 
